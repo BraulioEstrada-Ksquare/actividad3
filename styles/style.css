@@ -1,0 +1,18 @@
+html{
+    box-sizing: content-box;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 62.5%;
+}
+#survey{
+    width: min-content;
+    height: min-content;
+    border-style: solid;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 25px;
+    font-size: 2rem;
+    box-shadow: 10px 5px 5px black;
+}
